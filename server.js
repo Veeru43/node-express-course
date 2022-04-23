@@ -47,5 +47,5 @@ app.post('/login',function(req,res){
 })
 
 app.listen(8000,function(){
-    console.log("Server is Running")
+    console.log("Server is Running on port 8000")
 })
